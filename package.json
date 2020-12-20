@@ -4,7 +4,7 @@
   "description": "estudo de next js",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "dev": "next dev"
   },
   "author": "",
   "license": "ISC",
